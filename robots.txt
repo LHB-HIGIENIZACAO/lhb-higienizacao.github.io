@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lhb-higienizacao.github.io/sitemap.xml
