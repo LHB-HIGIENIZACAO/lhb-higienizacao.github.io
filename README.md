@@ -1,5 +1,5 @@
-# LHB Higienização — versão SEO PRO
+# LHB Higienização — SEO Local 2026
 
-Site institucional estático com SEO técnico básico, SEO local, dados estruturados, sitemap e robots.txt.
+Pacote estático para GitHub Pages com páginas de serviços e localidades, SEO técnico, sitemap e robots.txt.
 
-Arquivos: index.html, style.css, robots.txt, sitemap.xml.
+Não altere os nomes/paths das páginas sem atualizar o sitemap.
